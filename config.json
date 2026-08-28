@@ -1,0 +1,13 @@
+{
+  "initial_name": "Player",
+  "starting_coins": 2000,
+  "starting_gems": 2000,
+  "starting_power_points": 2000,
+  "starting_brawler_trophies": 100000,
+  "starting_power_level": 1,
+  "unlock_all_brawlers": false,
+  "brawler_price": 1,
+  "colt_gem_price": 1,
+  "region": "RU",
+  "motd": ""
+}
